@@ -6,16 +6,9 @@ Estudante de **Tecnologia da Informação** na **UFMS**, com foco em **análise 
 - Projeto de análise das minhas horas de estudo com Python e pandas
 - Aprendendo a usar Git e GitHub, e construindo meu portfólio aqui
 
-## 🛠️ Tecnologias e ferramentas
-- **Linguagens:** Python (em aprendizado)
-- **Plataformas:** Microsoft Power Platform
-- **Em estudo:** Análise de Dados e Segurança da Informação
-
-## 🎓 Formação e certificações
+## 🎓 Formação 
 - Graduação em TI, UFMS (previsão: 12/2028)
 - Técnico em Administração, SENAI
-- Microsoft PL-900 (Power Platform Fundamentals)
-- Google Cloud Skills Boost
 
 ## 🌐 Idiomas
 Português (nativo) · Inglês · 日本語 (em andamento)
