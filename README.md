@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou a Isabella! 👋
 
-<!--
-**isamatsuo/isamatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Tecnologia da Informação** na **UFMS**, com foco em **análise de dados** e **programação**. Busco meu primeiro estágio na área de TI.
 
-Here are some ideas to get you started:
+## 🔭 No que estou trabalhando
+- Projeto de análise das minhas horas de estudo com Python e pandas
+- Aprendendo a usar Git e GitHub, e construindo meu portfólio aqui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e ferramentas
+- **Linguagens:** Python (em aprendizado)
+- **Plataformas:** Microsoft Power Platform
+- **Em estudo:** Análise de Dados e Segurança da Informação
+
+## 🎓 Formação e certificações
+- Graduação em TI, UFMS (previsão: 12/2028)
+- Técnico em Administração, SENAI
+- Microsoft PL-900 (Power Platform Fundamentals)
+- Google Cloud Skills Boost
+
+## 🌐 Idiomas
+Português (nativo) · Inglês · 日本語 (em andamento)
+
+## 📫 Vamos conversar?
+- LinkedIn: www.linkedin.com/in/isabellamatsuo
+- Cidade: Ribeirão Preto, SP
+
+Estou aberta a conexões com pessoas da área de tecnologia. Fique à vontade para entrar em contato!
